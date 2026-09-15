@@ -2,6 +2,5 @@
 # Autor: Andrés Felipe Gutiérrez Rivera
 # Fecha: 2026-09-15
 
-texto = "Hola Mundo"
-
-print(texto)
+nombre = input("¿Cómo te llamas? ")
+print("Hola, " + nombre)
